@@ -1,5 +1,7 @@
 const http = require('http')
-const postData = JSON.stringify({ foo: 'bar' })
+const postData = JSON.stringify({
+    foo: 'bar'
+})
 
 const options = {
     hostname: 'mockbin.com',

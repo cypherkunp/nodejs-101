@@ -4,7 +4,7 @@ const url = 'http://www.google.com'
 http.get(url, (response) => {
     let rawData = '';
     response.on('data', (chunk) => {
-       rawData += chunk;
+        rawData += chunk;
     });
     response.on('end', () => {
         console.log(rawData);
