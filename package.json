@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-101",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/devvratshukla/nodejs-101.git",
+  "author": "Devvrat Shukla <devvratshukla@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node-dev"
+  },
+  "devDependencies": {
+    "node-dev": "^3.1.3"
+  },
+  "dependencies": {
+    "uuid": "3.1.0"
+  }
+}
