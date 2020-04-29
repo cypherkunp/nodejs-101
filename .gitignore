@@ -3,3 +3,6 @@
 #YARN FILES
 yarn-error.log
 **/downloads
+
+# mac
+.DS_Store
