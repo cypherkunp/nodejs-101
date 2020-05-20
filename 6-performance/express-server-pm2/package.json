@@ -1,0 +1,16 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "pm2 start index.js",
+    "monitor": " pm2 monit"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "pm2": "^4.4.0"
+  }
+}
