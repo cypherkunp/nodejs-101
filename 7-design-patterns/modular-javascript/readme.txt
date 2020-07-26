@@ -1,0 +1,10 @@
+- Slef containing code
+    - everything to do with my module is in my module
+    - no global variables
+    - if a module does more than one thing it should be split up
+- Separation of concern
+- DRY: Dont Repeat Yourself
+- efficient DOM Usage
+    - few $ selections
+- no memory leaks
+    - all events can be unbound
