@@ -9,7 +9,6 @@
     "start": "node-dev",
     "build": "babel 9-es6-vs-es5 -d build"
   },
-  "type": "module",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0",
