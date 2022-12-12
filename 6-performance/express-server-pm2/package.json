@@ -8,7 +8,7 @@
     "monitor": " pm2 monit"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "pm2": "^4.4.0"
